@@ -2,19 +2,19 @@
 
 
   .main-banner .item-1 {
-    background-image: url(../images/home1.jpg);
+    /* background-image: url(../images/home1.jpg); */
     margin-top: 200px;
     margin-bottom:330px
   }
   
   .main-banner .item-2 {
-    background-image: url(../images/home2.jpg);
+    /* background-image: url(../images/home2.jpg); */
     margin-top: 20px;
     margin-bottom:330px
   }
   
   .main-banner .item-3 {
-    background-image: url(../images/home3.jpg);
+    /* background-image: url(../images/home3.jpg); */
     margin-top: 20px;
     margin-bottom:330px
   }
