@@ -1,0 +1,5 @@
+.carousel-item active {
+     background-image: url(../images/home1.jpg);
+    margin-top: 20px;
+    margin-bottom:330px
+  }
